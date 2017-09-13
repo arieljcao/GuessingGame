@@ -1,7 +1,8 @@
 import java.util.Random;
 
 public class comicsansfun extends javax.swing.JFrame {
-     
+    // This is a guessing game!
+
     Random R=new Random();
     int mys;
     int guess;
